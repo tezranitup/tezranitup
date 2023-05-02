@@ -17,5 +17,5 @@
 [<img align="left" alt="Cortez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Cortez
-[instagram]: https://www.instagram.com/Cortez
-[linkedin]: https://linkedin.com/in/Cortez
+[instagram]: https://www.instagram.com/blueface.tez
+[linkedin]: https://linkedin.com/in/Cortezrios
